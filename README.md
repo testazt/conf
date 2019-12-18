@@ -1,0 +1,2 @@
+# conf
+uwsgi and nginx
